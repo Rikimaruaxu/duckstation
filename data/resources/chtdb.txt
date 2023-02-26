@@ -33894,6 +33894,66 @@ D00CCDF8 0004
 800BAF4C FFFF
 #Shana Character Cheats\Max HP
 800BE79E 270F
+#Dart Additions\Double Slash Used 98 Times
+300BAF16 0062
+#Dart Additions\Volcano Used 98 Times
+300BAF17 0062
+#Dart Additions\Burning Rush Used 98 Times
+300BAF18 0062
+#Dart Additions\Crush Dance Used 98 Times
+300BAF19 0062
+#Dart Additions\Madness Hero Used 98 Times
+300BAF1A 0062
+#Dart Additions\Moon Strike Used 98 Times
+300BAF1B 0062
+#Dart Additions\Blazing Dynamo Used 98 Times
+300BAF1C 0062
+#Lavitz/Albert Additions\Harpoon Used 98 Times
+300BAF42 0062
+#Lavitz/Albert Additions\Spinning Cane Used 98 Times
+300BAF43 0062
+#Lavitz/Albert Additions\Rod Typhoon Used 98 Times
+300BAF44 0062
+#Lavitz/Albert Additions\Gust Of Wind Dance Used 98 Times
+300BAF45 0062
+#Lavitz/Albert Additions\Flower Storm Used 98 Times
+300BAF46 0062
+#Rose Additions\Whip Smack Used 98 Times
+300BAF9A 0062
+#Rose Additions\More & More Used 98 Times
+300BAF9B 0062
+#Rose Additions\Hard Blade Used 98 Times
+300BAF9C 0062
+#Rose Additions\Demons Dance Used 98 Times
+300BAF9D 0062
+#Haschel Additions\Double Punch Used 98 Times
+300BAFC6 0062
+#Haschel Additions\Flurry Of Styx Used 98 Times
+300BAFC7 0062
+#Haschel Additions\Summon 4 Gods Used 98 Times
+300BAFC8 0062
+#Haschel Additions\5 Ring Shattering Used 98 Times
+300BAFC9 0062
+#Haschel Additions\Hex Hammer Used 98 Times
+300BAFCA 0062
+#Haschel Additions\Omni-Sweep Used 98 Times
+300BAFCB 0062
+#Meru Additions\Double Smack Used 98 Times
+300BB01E 0062
+#Meru Additions\Hammer Spin Used 98 Times
+300BB01F 0062
+#Meru Additions\Cool Boogie Used 98 Times
+300BB020 0062
+#Meru Additions\Cat's Cradle Used 98 Times
+300BB021 0062
+#Meru Additions\Perky Step Used 98 Times
+300BB022 0062
+#Kongol Additions\Pursuit Used 98 Times
+300BB04A 0062
+#Kongol Additions\Inferno Used 98 Times
+300BB04B 0062
+#Kongol Additions\Bone Crush Used 98 Times
+300BB04C 0062
 #Other\After Battle\Max Exp
 900BC95C 0098967F
 #Other\After Battle\Max Gold
